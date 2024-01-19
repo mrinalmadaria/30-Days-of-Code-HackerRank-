@@ -8,7 +8,7 @@ HackerRank's "30 Days of Code" is a series of daily coding challenges designed t
 
 ## Challenges
 
-- [Day 0: Hello, World!]("./Day0/Day0.cpp")
+- [Day 0: Hello, World!](./Day0/Day0.cpp)
 - [Day 1: Addition/Concatenation](./Day1/Day1.cpp)
 - ...
 - [Day 30: More Linked Lists](./Day30.cpp)
