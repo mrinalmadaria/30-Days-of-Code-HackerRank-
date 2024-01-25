@@ -15,6 +15,7 @@ HackerRank's "30 Days of Code" is a series of daily coding challenges designed t
 - [Day 4: Classes & Instances](./Day4/Day4.cpp)
 - [Day 5: Loops](./Day5/Day5.cpp)
 - [Day 6: String Manipulation](./Day6/Day6.cpp)
+- [Day 7: Arrays](./Day7/Day7.cpp)
 - ...
 - [Day 30: More Linked Lists](./Day30.cpp)
 
