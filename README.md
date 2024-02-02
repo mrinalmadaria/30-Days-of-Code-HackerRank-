@@ -23,6 +23,7 @@ HackerRank's "30 Days of Code" is a series of daily coding challenges designed t
 - [Day 12: Inheritance](./Day12/Day12.cpp)
 - [Day 13: Abstract Classes](./Day13/Day13.cpp)
 - [Day 14: Scope](./Day14/Day14.cpp)
+- [Day 15: Linked List](./Day15/Day15.cpp)
 - ...
 - [Day 30: More Linked Lists](./Day30.cpp)
 
