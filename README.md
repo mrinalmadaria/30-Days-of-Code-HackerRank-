@@ -29,6 +29,8 @@ HackerRank's "30 Days of Code" is a series of daily coding challenges designed t
 - [Day 18: Queues and Stacks](./Day18/Day18.cpp)
 - [Day 19: Interfaces](./Day19/Day19.cpp)
 - [Day 20: Sorting](./Day20/Day20.cpp)
+- [Day 21: Generics](./Day21/Day21.cpp)
+- [Day 22: Binary Search Trees](./Day22/Day22.cpp)
 - ...
 - [Day 30: More Linked Lists](./Day30.cpp)
 
