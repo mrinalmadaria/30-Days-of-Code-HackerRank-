@@ -37,7 +37,6 @@ HackerRank's "30 Days of Code" is a series of daily coding challenges designed t
 - [Day 26: Nested Logic](./Day26/Day26.cpp)
 - [Day 27: Testing](./Day27/Day27.cpp)
 - [Day 28: RegEx, Patterns and Intro to Databases](./Day28/Day28.cpp)
-- ...
-- [Day 30: More Linked Lists](./Day30.cpp)
+- [Day 29: Bitwise AND](./Day29/Day29.cpp)
 
 Each challenge is organized into a dedicated folder, containing my solution, and any additional resources or notes related to the implementation.
